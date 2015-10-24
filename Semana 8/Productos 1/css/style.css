@@ -1,0 +1,191 @@
+/*.logo {
+	margin-left: 50px;
+	float: left;
+}
+
+
+#nav {	
+
+	display: inline-block;
+	
+	margin-top: -60px;
+
+	margin-left: 400px;
+
+	float: right;
+*/
+
+/*
+header {
+	display: inline-block;
+}
+*/
+
+
+
+nav li {
+	text-align: center;
+	
+	color: white;
+	list-style:none;
+	padding-left: 40px;
+}
+
+li {
+
+  text-align: center;
+  font-size: 18px;
+  font-family: "brandon grotesque";
+  color: white;
+  }
+
+  a{
+  	color:inherit;
+  }
+
+  a:hover {
+	color: inherit;
+}
+
+.carousel-caption{
+	font-family: "brandon grotesque";
+	text-align: left;
+	margin-left: -200px;
+	margin-bottom: 300px;
+
+	
+}
+
+.carousel-caption p{
+	font-size: 35px;
+	line-height: 30pt;
+
+	
+}
+
+.carousel-caption a{
+	font-size: 24px;
+	text-decoration: underline;
+	line-height: 18pt;
+	
+}
+
+/*
+#ocre {
+    background-color: #B58548;
+}
+
+#morado{
+    background-color: #46063A;
+}
+
+#verde{
+	background-color: #9AAF67;
+}
+*/
+
+#carousel-example-generic {
+	height:100;
+	width: 1160px;
+	margin-left: 139px;
+	position: absolute;
+	margin-top: 25px;
+	z-index: 0;
+}
+
+/*
+.login
+	{font-size: 18px;
+	font-family: "brandon grotesque";
+	
+	margin-left: 500px;
+
+	}
+
+
+	.icono {
+		
+		
+		margin-left: 965px;
+		float: right;
+
+	}
+
+.logo {
+	margin-left: 50px;
+	float: left;
+	margin-top: 25px;
+
+
+}
+*/
+
+.navbar-default {
+	width: 1300px;
+	padding-left: 116px;
+	background-color: white;
+	border-style: none;
+	padding-top: 50px;
+	display: inline-block;
+
+	}
+
+.navbar-brand img {
+	padding-left: -40px;
+}
+
+.iconos img{
+	
+	float: bottom;
+	margin-top: 515px;
+
+
+}
+
+.iconos {
+	margin-left: 684px;
+}
+
+.iconos img:hover {
+		opacity: .50;
+}
+
+.col-sm-3 {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 20px;
+	font-family: "brandon grotesque";
+}
+
+.container-fluid {
+	margin-left: 
+
+}
+	
+
+/*
+p{ 
+	font-size: 30px;
+	font-family: "brandon grotesque";
+	color: white;
+	position: absolute;
+	z-index: 1;
+	margin-left: 95px;
+	
+}
+*/
+/*
+.receta {
+	font-size: 24px;
+	font-family: "brandon grotesque";
+	color: white;
+position: absolute;
+	z-index: 1;
+	margin-left: 105px;
+	margin-top: 100px;
+}
+*/
+
+
+
+	
