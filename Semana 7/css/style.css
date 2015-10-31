@@ -28,6 +28,7 @@ nav li {
 	
 	color: white;
 	list-style:none;
+	padding-left: 40px;
 }
 
 li {
@@ -49,8 +50,8 @@ li {
 .carousel-caption{
 	font-family: "brandon grotesque";
 	text-align: left;
-	margin-left: -220px;
-	margin-bottom: 350px;
+	margin-left: -200px;
+	margin-bottom: 300px;
 
 	
 }
@@ -85,10 +86,10 @@ li {
 
 #carousel-example-generic {
 	height:100;
-	width: 1315px;
-	margin-left: 62px;
+	width: 1160px;
+	margin-left: 139px;
 	position: absolute;
-	margin-top: 5px;
+	margin-top: 25px;
 	z-index: 0;
 }
 
@@ -120,20 +121,35 @@ li {
 */
 
 .navbar-default {
-	width: 1400px;
-	padding-left: 35px;
+	width: 1300px;
+	padding-left: 116px;
 	background-color: white;
 	border-style: none;
-	padding-top: 45px;
+	padding-top: 50px;
 	display: inline-block;
 
 	}
 
 .navbar-brand img {
-	padding-left: -25px;
+	padding-left: -40px;
+}
+
+.iconos img{
 	
+	float: bottom;
+	margin-top: 550px;
+
 
 }
+
+.iconos {
+	margin-left: 684px;
+}
+
+.iconos img:hover {
+		opacity: .50;
+}
+
 
 
 /*
