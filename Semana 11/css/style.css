@@ -19,7 +19,7 @@ body{
 
 p{
 padding-top: -100px;
-  color: black;
+  color: white;
   position: relative;
 padding-left: 300px;
 padding-right: 300px;
@@ -30,7 +30,7 @@ padding-right: 300px;
 
 
 .wave{
-  background: black;
+  background: white;
   display:inline-block;
   height:60%;
   width:10px;
@@ -43,7 +43,7 @@ padding-right: 300px;
 
 ol{
 padding-top: -50px;
-  color: black;
+  color: white;
   position: relative;
 padding-left: 325px;
 padding-right: 325px;
@@ -52,7 +52,7 @@ padding-right: 325px;
 }
 
 h2{
-color: black;
+color: white;
   position: relative;
 padding-left: 300px;
 padding-right: 300px;
