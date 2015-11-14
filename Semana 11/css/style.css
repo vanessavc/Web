@@ -1,0 +1,86 @@
+body{
+  height:auto;
+  margin:0;
+}
+
+#ocean{
+  position:absolute;
+  width:100%;
+  min-height:100%;
+  background-image: -webkit-gradient(
+  linear,
+  left bottom,
+  left top,
+  color-stop(0, #021c2e),
+   color-stop(0.25, #004370),
+  color-stop(0.50, #28658c)
+  );
+}
+
+p{
+padding-top: -100px;
+  color: black;
+  position: relative;
+padding-left: 300px;
+padding-right: 300px;
+  font-size: 16px;
+   font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+.wave{
+  background: black;
+  display:inline-block;
+  height:60%;
+  width:10px;
+  position:absolute;
+  -webkit-animation-name:             dostuff; 
+  -webkit-animation-duration:         6s; 
+  -webkit-animation-iteration-count:  infinite;
+  -webkit-transition-timing-function: ease-in-out;
+}
+
+ol{
+padding-top: -50px;
+  color: black;
+  position: relative;
+padding-left: 325px;
+padding-right: 325px;
+  font-size: 16px;
+   font-family: 'Roboto Condensed', sans-serif; 
+}
+
+h2{
+color: black;
+  position: relative;
+padding-left: 300px;
+padding-right: 300px;
+  font-size: 36px;
+   font-family: 'Roboto Condensed', sans-serif; 
+}
+
+h1{
+color: #28658c ;
+  position: relative;
+ padding-top: 30px;
+padding-left: 300px;
+padding-right: 300px;
+  font-size: 60px;
+   font-family: 'Roboto Condensed', sans-serif; 
+}
+
+
+@-webkit-keyframes dostuff{
+  0%{
+    height:80%;
+  }
+  50%{ 
+    height:0%;
+  }
+
+
+  100%{ 
+    height:80%;
+  }
+}
