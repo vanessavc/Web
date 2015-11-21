@@ -1,0 +1,22 @@
+div {
+		    position: absolute;
+		    background-color: orange;
+		    left: 50px;
+		    width: 200px;
+		    height: 90px;
+		    margin: 5px;
+		  }
+
+
+		  h1{
+		  	position: fixed;
+		  	display: inherit;
+		  	color: white;
+		  	font-family: "Futura", sans serif;
+		  	font-weight: normal;
+		  	padding-left: 175px;
+		  	padding-top: 7px;
+
+		  	
+
+		  }

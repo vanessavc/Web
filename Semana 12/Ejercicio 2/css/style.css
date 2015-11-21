@@ -1,0 +1,32 @@
+canvas {
+  display: block; 
+}
+
+h1{
+	
+		    font-weight: bold;
+		    font-family: helvetica, sans-serif;
+		    font-weight: bold;
+		    		    line-height: 25px;
+		    		    color: #39335A;
+
+
+}
+
+  p {
+		 
+		    font-weight: bold;
+		    font-size: 23px;
+		    font-family: helvetica, sans-serif;
+		    font-weight: normal;
+		    line-height: 0px;
+		      color: #39335A;
+		  }
+
+		  img{
+		  	width:55%;
+		  }
+
+		 body{
+		 	background-color: #F2D05F;
+		 } 

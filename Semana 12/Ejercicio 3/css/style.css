@@ -1,0 +1,34 @@
+canvas {
+  display: block; 
+}
+
+p {
+	    position: relative;
+	    width: 400px;
+	    height: 90px;
+	    font-family: "franklin gothic", sans-serif;
+	  }
+	  div {
+	    position: absolute;
+	    width: 400px;
+	    height: 65px;
+	    font-size: 36px;
+	    text-align: center;
+	    color: yellow;
+	    padding-top: 25px;
+	    top: 0;
+	    left: 0;
+	    display: none;
+	  }
+	 
+	 img{
+	 	margin-top: -30px;
+	 	width: 100%;
+	 }
+
+	 a{
+	 	color:inherit;
+	 	font-weight: bold;
+	 }
+
+
