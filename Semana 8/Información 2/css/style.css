@@ -1,169 +1,43 @@
-/*.logo {
-  margin-left: 50px;
-  float: left;
+/* nav bar bootstrap
+
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(0, 0, 0, 1);
+}
+#custom-bootstrap-menu.navbar-default {
+    font-size: #ffffffpx;
+    background-color: rgba(157, 49, 35, 1);
+    border-bottom-width: #9d3123px;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(119, 119, 119, 1);
+    background-color: rgba(157, 49, 35, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(184, 77, 63, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(157, 49, 35, 1);
+    background-color: rgba(255, 255, 255, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #ffffff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #ffffff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #9d3123;
 }
 
-
-#nav {  
-
-  display: inline-block;
-  
-  margin-top: -60px;
-
-  margin-left: 400px;
-
-  float: right;
 */
 
-/*
-header {
-  display: inline-block;
-}
-*/
 
-
-
-nav li {
-  text-align: center;
-  
-  color: white;
-  list-style:none;
-  padding-left: 40px;
-}
-
-li {
-
-  text-align: center;
-  font-size: 18px;
-  font-family: "brandon grotesque";
-  color: white;
-  }
-
-  a{
-    color:inherit;
-  }
-
-  a:hover {
-  color: inherit;
-}
-
-.carousel-caption{
-  font-family: "brandon grotesque";
-  text-align: left;
-  margin-left: -200px;
-  margin-bottom: 300px;
-
-  
-}
-
-.carousel-caption p{
-  font-size: 35px;
-  line-height: 30pt;
-
-  
-}
-
-.carousel-caption a{
-  font-size: 24px;
-  text-decoration: underline;
-  line-height: 18pt;
-  
-}
-
-/*
-#ocre {
-    background-color: #B58548;
-}
-
-#morado{
-    background-color: #46063A;
-}
-
-#verde{
-  background-color: #9AAF67;
-}
-*/
-
-#carousel-example-generic {
-  height:100;
-  width: 1160px;
-  margin-left: 139px;
-  position: absolute;
-  margin-top: 25px;
-  z-index: 0;
-}
-
-/*
-.login
-  {font-size: 18px;
-  font-family: "brandon grotesque";
-  
-  margin-left: 500px;
-
-  }
-
-
-  .icono {
-    
-    
-    margin-left: 965px;
-    float: right;
-
-  }
-
-.logo {
-  margin-left: 50px;
-  float: left;
-  margin-top: 25px;
-
-
-}
-*/
-
-.navbar-default {
-  width: 1300px;
-  padding-left: 116px;
-  background-color: white;
-  border-style: none;
-  padding-top: 50px;
-  display: inline-block;
-
-  }
-
-.navbar-brand img {
-  padding-left: -40px;
-}
-
-.iconos img{
-  
-  margin-top: 325px;
-
-
-}
-
-.iconos {
-  margin-left: 684px;
-}
-
-.iconos img:hover {
-    opacity: .50;
-}
-
-
-.tab-content p{
-  font-size: 20px;
-  font-family: "brandon grotesque";
-  margin-left: 170px;
-  margin-right:150px;
-  margin-top: 20px;
-  line-height: 20pt;
-}
-
-
-.nav-tabs {
-  margin-left: 150px;
-  margin-right: 150px;
-  margin-top: 18px;
-}
-
-  
